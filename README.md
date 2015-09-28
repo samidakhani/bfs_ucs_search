@@ -1,4 +1,4 @@
 # bfs_ucs_search
-Python Code for BFS and UCS search
+Implementation of BFS and UCS search algorithms in python
 
 
